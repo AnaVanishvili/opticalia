@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5eu09Okz8IU_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Curso de auxiliar de optica_Opticalia_Vanishvili Ana</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Curso_de_auxiliar_de_optica_Opticalia_Vanishvili_Ana_ORG">
+    <organization identifier="Curso_de_auxiliar_de_optica_Opticalia_Vanishvili_Ana_ORG">
+      <title>Curso de auxiliar de optica_Opticalia_Vanishvili Ana</title>
+      <item identifier="Curso_de_auxiliar_de_optica_Opticalia_Vanishvili_Ana_SCO" isvisible="true" identifierref="__5eu09Okz8IU_course_id_RES">
+        <title>Curso de auxiliar de optica_Opticalia_Vanishvili Ana</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5eu09Okz8IU_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6N9rqxe6Rq0_80_RG_P_239_0_1645_1624_DX514_DY514_CX434_CY428.png" />
+      <file href="mobile/6NLpYoPeRVb_80_RG_P_0_0_1372_1365_DX616_DY616_CX432_CY430.png" />
+      <file href="mobile/5vaT35GBDkU_80_RG_P_660_0_1387_1366_DX1290_DY1290_CX436_CY429.png" />
+      <file href="mobile/6hHGKIVmdsM_80_P_0_188_512_133_DX134_DY134_CX134_CY35.png" />
+      <file href="mobile/67nPrkRXzql_80_RG_P_88_0_1013_539_DX2330_DY2330_CX1014_CY539.png" />
+      <file href="mobile/6Ksw2sZncGQ_80_DX630_DY630_CX598_CY357.png" />
+      <file href="mobile/6NjGZfcESeO_80_DX742_DY742_CX284_CY190.png" />
+      <file href="mobile/5ymJmNRnduK_80_RG_P_0_43_1582_289_DX1468_DY1468_CX1512_CY277.png" />
+      <file href="mobile/6SBSmWzmpuD_80_RG_P_0_82_1801_1033_DX1444_DY1444_CX1512_CY868.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6DPpbntsUYY.png" />
+      <file href="mobile/txt__default_5ZJ0UiV08Gh.png" />
+      <file href="mobile/txt__default_6G2J5GUNcaS.png" />
+      <file href="mobile/txt__default_6H5iOKNhhbt.png" />
+      <file href="mobile/txt__default_6YSaGaG7LqM.png" />
+      <file href="mobile/txt__default_5yPOCOIyIDA.png" />
+      <file href="mobile/txt__default_5uhaeeMM0JF.png" />
+      <file href="mobile/txt__default_5y7MIxgZPCi.png" />
+      <file href="mobile/txt__default_6WPSCNVnu8h.png" />
+      <file href="mobile/txt__default_5Yr8uNx36Jc.png" />
+      <file href="mobile/txt__default_6NVD4S2YdJm.png" />
+      <file href="mobile/txt__default_6K380W8V9Bo.png" />
+      <file href="mobile/txt__default_6Fq6AjvK1Xi.png" />
+      <file href="mobile/Shape6r3hans2NRV.png" />
+      <file href="mobile/Shape6GqtH5bk53P.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5WqGwD7xEvU.js" />
+      <file href="html5/data/js/5XLM3Lh9NKp.js" />
+      <file href="html5/data/js/6FVdQV8quBj.js" />
+      <file href="html5/data/js/6jVVWaSRr17.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
